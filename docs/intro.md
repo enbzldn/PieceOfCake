@@ -23,6 +23,6 @@ With PieceOfCake, users can:
 
 ## Why offline?
 
-PieceOfCake is intentionally built for **offline-first** use. 
-You don’t need an account, internet connection, or cloud storage. 
+PieceOfCake is intentionally built for **offline-first** use.  
+You don’t need an account, internet connection, or cloud storage.  
 Everything is saved securely on your device — making the app fast, reliable, and private by default.
