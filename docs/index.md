@@ -1,7 +1,7 @@
 
 # PieceOfCake
 
-**PieceOfCake** is a modern Android application designed for creating, storing, and managing recipes with ease. 
+**PieceOfCake** is a modern Android application designed for creating, storing, and managing recipes with ease.  
 It helps users organize their cooking ideas, track ingredients and preparation steps, generate grocery lists, categorize recipes, and add photos — all in one place.
 
 ## 🔧 Features
