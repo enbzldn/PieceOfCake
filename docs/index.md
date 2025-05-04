@@ -7,7 +7,7 @@ It helps users organize their cooking ideas, track ingredients and preparation s
 
 - Create and edit recipes with ingredients and instructions
 - Add photos to the recipe and each step of the instructions
-- Organize recipes into categories (folders)
+- Organize recipes into topics (categories)
 - Search recipes by name and ingredients
 - Generate a grocery list from recipe ingredients
 
