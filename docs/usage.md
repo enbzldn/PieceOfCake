@@ -2,7 +2,10 @@
 
 This section will guide you through the basic steps of using the PieceOfCake app.
 
-<img src="img/main_screen.png" alt="Main screen" width="300"/>
+<div style="display: flex; gap: 16px; align-items: flex-start;">
+  <img src="img/main_screen.png" style="width:45%;">
+  <img src="img/create_recipe_p1.png" style="width:45%;">
+</div>
 
 ## 🧁 Creating Your First Recipe
 
