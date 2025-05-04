@@ -2,8 +2,6 @@
 
 This section will guide you through the basic steps of using the PieceOfCake app.
 
-![Main screen](img/main_screen.png)
-
 <img src="img/main_screen.png" alt="Main screen" width="300"/>
 
 ## 🧁 Creating Your First Recipe
