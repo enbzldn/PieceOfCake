@@ -2,6 +2,8 @@
 
 This section will guide you through the basic steps of using the PieceOfCake app.
 
+![Main screen](img/main_screen.png)
+
 ## 🧁 Creating Your First Recipe
 
 1. Open the app and tap the **Create recipe** button on the main screen.  
