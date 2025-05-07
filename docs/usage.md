@@ -22,10 +22,10 @@ This section will guide you through the basic steps of using the PieceOfCake app
 
 Once you've created a recipe, you can easily organize and update it:
 
-- **Move to a Topics**:  
-  1. Open the recipe.  
-  2. Tap the **Edit** icon.  
-  3. Select or create a topic (category) to organize your recipes.
+**Move to a Topics**:  
+1. Open the recipe.  
+2. Tap the **Edit** icon.  
+3. Select or create a topic (category) to organize your recipes.
 
 
 
