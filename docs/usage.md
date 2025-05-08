@@ -4,7 +4,7 @@ This section will guide you through the basic steps of using the PieceOfCake app
 
 <div style="display: flex; gap: 16px; align-items: flex-start;">
   <img src="img/main_screen.png" style="width:25%;">
-  <img src="img/create_recipe_p1.png" style="width:25%;">
+  <img src="img/edit_recipe.png" style="width:25%;">
 </div>
 
 ## 🧁 Creating Recipe
