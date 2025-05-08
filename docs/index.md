@@ -6,6 +6,6 @@ It helps users organize their cooking ideas, track ingredients and preparation s
 ## 📚 Documentation Sections
 
 - [Introduction](intro.md)
-- [Create Recipe](recipe_add.md)
-- [Manage Recipe](recipe_manage.md)
-- [Delete Recipe](recipe_delete.md)
+- [Create a Recipe](recipe_add.md)
+- [Manage a Recipe](recipe_manage.md)
+- [Delete a Recipe](recipe_delete.md)
