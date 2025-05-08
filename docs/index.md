@@ -18,10 +18,6 @@ It helps users organize their cooking ideas, track ingredients and preparation s
 - Fully works **offline** and does **not require registration**
 - Offers a distraction-free experience with **no ads or tracking**
 
-## 📱 Platform
-
-- Android (developed with .NET MAUI)
-
 ---
 
 ## 📚 Documentation Sections
