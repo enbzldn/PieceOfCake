@@ -2,8 +2,9 @@
 
 This section will guide you through the basic steps of using the PieceOfCake app.
 
-<div style="display: flex; gap: 16px; align-items: flex-start;">
+<div style="display: flex; gap: 16px; align-items: center;">
   <img src="img/main_screen.webp" style="width:25%;">
+  <span style="font-size: 2rem;">➔</span>
   <img src="img/edit_recipe.webp" style="width:25%;">
 </div>
 
