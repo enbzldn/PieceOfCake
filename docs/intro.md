@@ -2,6 +2,14 @@
 
 **PieceOfCake** is a modern mobile app designed to simplify and enhance the way people manage their personal cooking routines.
 
+## Features
+
+- Create and edit recipes with ingredients and instructions
+- Add photos to the recipe and each step of the instructions
+- Organize recipes into topics (categories)
+- Search recipes by name and ingredients
+- Generate a grocery list from recipe ingredients
+
 ## Who is it for?
 
 This app is ideal for:
