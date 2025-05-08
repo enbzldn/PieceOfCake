@@ -1,4 +1,4 @@
-# Create Recipe
+# Create a Recipe
 
 Open the app and tap the **Create recipe** button on the main screen.  
 
