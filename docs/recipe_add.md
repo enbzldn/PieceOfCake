@@ -18,15 +18,3 @@ Open the app and tap the **Create recipe** button on the main screen.
 4. Optionally add a photo of the finished dish.
 
 Any changes you make will be saved automatically.
-
-## 🗂️ Manage Recipes
-
-Once you've created a recipe, you can easily organize and update it:
-
-**Move to a Topics**:  
-1. Open the recipe.  
-2. Tap the **Edit** icon.  
-3. Select or create a topic (category) to organize your recipes.
-
-
-
