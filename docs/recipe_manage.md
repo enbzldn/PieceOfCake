@@ -1,2 +1,2 @@
-## Manage Recipe
+# Manage Recipes
 
