@@ -8,7 +8,7 @@ This section will guide you through the basic steps of using the PieceOfCake app
   <img src="img/edit_recipe.webp" style="width:25%; vertical-align: middle;">
 </div>
 
-## 🧁 Creating Recipe
+## 🧁 Create Recipe
 
 1. Open the app and tap the **Create recipe** button on the main screen.  
 2. Enter a recipe name.  
@@ -17,7 +17,7 @@ This section will guide you through the basic steps of using the PieceOfCake app
 5. Optionally add a photo of the finished dish.
 6. Any changes you make will be saved automatically.
 
-## 🗂️ Managing Recipes
+## 🗂️ Manage Recipes
 
 Once you've created a recipe, you can easily organize and update it:
 
