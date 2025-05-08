@@ -1,4 +1,4 @@
-## Delete a Recipe
+# Delete a Recipe
 
 1. Open Recipes page by tapping **Go to recipes**.
 2. Find the recipe you want to delete and swipe right to left.
