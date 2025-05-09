@@ -1,7 +1,7 @@
 # Delete a Topic
 
 1. Open **Topics** page.
-2. Find the topic you want to delete and swipe right to left.
+2. Select the topic you want to delete and swipe right to left.
 3. Tap **Delete**.
 4. Confirm the deletion by tapping **Delete** again, otherwise tap **Cancel**.
 
