@@ -16,3 +16,5 @@ It helps users organize their cooking ideas, track ingredients and preparation s
 - [Delete Topic](topics_delete.md)
 ### Grocery List
 - [Create Grocery List](grocery_add.md)
+- [Manage Grocery List](grocery_manage.md)
+- [Remove Grocery List](grocery_delete.md)
