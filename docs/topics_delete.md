@@ -5,7 +5,7 @@
 3. Tap **Delete**.
 4. Confirm the deletion by tapping **Delete** again.
 
-Deleting a topic will not remove the recipes linked to it.
+Deleting a topic will not remove the recipes linked to it.  
 Recipes will still be available on the Recipes page or the Search page.
 
 <div style="display: flex; gap: 16px; align-items: center;">
