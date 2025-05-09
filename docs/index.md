@@ -6,15 +6,15 @@ It helps users organize their cooking ideas, track ingredients and preparation s
 ## 📚 Documentation Sections
 
 - [Introduction](intro.md)  
-- [Recipes]
+- Recipes
   - [Create Recipe](recipe_add.md)
   - [Manage Recipe](recipe_manage.md)
   - [Delete Recipe](recipe_delete.md)
-### Topics
-- [Create Topic](topics_add.md)
-- [Manage Topic](topics_manage.md)
-- [Delete Topic](topics_delete.md)
-### Grocery List
-- [Create Grocery List](grocery_add.md)
-- [Manage Grocery List](grocery_manage.md)
-- [Remove Grocery](grocery_delete.md)
+- [Topics]
+  - [Create Topic](topics_add.md)
+  - [Manage Topic](topics_manage.md)
+  - [Delete Topic](topics_delete.md)
+- [Grocery List]
+  - [Create Grocery List](grocery_add.md)
+  - [Manage Grocery List](grocery_manage.md)
+  - [Remove Grocery](grocery_delete.md)
