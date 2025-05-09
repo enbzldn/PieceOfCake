@@ -6,11 +6,9 @@
 4. Confirm the deletion by tapping **Delete** again.
 
 <div style="display: flex; gap: 16px; align-items: center;">
-  <img src="img/main_screen.webp" style="width:25%; vertical-align: middle;">
-  <span style="font-size: 2rem; vertical-align: middle;">➔</span>
   <img src="img/grocery_list.webp" style="width:25%; vertical-align: middle;">
   <span style="font-size: 2rem; vertical-align: middle;">➔</span>
-  <img src="img/grocery_list_2.webp" style="width:25%; vertical-align: middle;">
+  <img src="img/grocery_list_4.webp" style="width:25%; vertical-align: middle;">
   <span style="font-size: 2rem; vertical-align: middle;">➔</span>
-  <img src="img/grocery_list_3.webp" style="width:25%; vertical-align: middle;">
+  <img src="img/grocery_list_5.webp" style="width:25%; vertical-align: middle;">
 </div>
