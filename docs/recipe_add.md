@@ -24,3 +24,7 @@ Each ingredient includes:
 
 ## Instructions
 
+Each instruction step includes:
+- **Title**: Short description of the step.
+- **Description**: A more detailed explanation of what to do.
+- **Photo (optional)**: You can attach a photo to any step to visualize the process.
