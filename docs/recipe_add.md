@@ -7,7 +7,9 @@ Open the app and tap the **Create recipe** button on the main screen.
 3. Add preparation steps with optional photos for each.  
 4. Optionally add a photo of the finished dish by tapping the **Camera button**
 
-Any changes you make will be saved automatically.
+<p style="background-color: #fef3c7; padding: 4px 8px; border-radius: 4px;">
+  Any changes you make will be saved automatically.
+</p>
 
 <div style="display: flex; gap: 16px; align-items: center;">
   <img src="img/main_screen.webp" style="width:25%;">
