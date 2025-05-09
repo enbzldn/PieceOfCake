@@ -14,5 +14,5 @@ Any changes you make will be saved automatically.
   <span style="font-size: 2rem; vertical-align: middle;">➔</span>
   <img src="img/edit_recipe.webp" style="width:25%; vertical-align: middle;">
   <span style="font-size: 2rem; vertical-align: middle;">➔</span>
-  <img src="img/recipe_3.webp" style="width:25%; vertical-align: middle;">
+  <img src="img/recipe_3.webp" style="width:25%; vertical-align: top;">
 </div>
