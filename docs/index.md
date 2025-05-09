@@ -20,4 +20,3 @@
 ### Grocery List
 - [Create Grocery List](grocery_add.md)
 - [Manage Grocery List](grocery_manage.md)
-- [Remove Grocery](grocery_delete.md)
