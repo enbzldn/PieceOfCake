@@ -9,9 +9,7 @@ Expand the **Completed** list to view completed groceries.
 You can then delete the grocery or move it back by unchecking the checkbox.
 
 <div style="display: flex; gap: 16px; align-items: center;">
-  <img src="img/grocery_list.webp" style="width:25%; vertical-align: middle;">
+  <img src="img/grocery_list_1.webp" style="width:25%; vertical-align: middle;">
   <span style="font-size: 2rem; vertical-align: middle;">➔</span>
-  <img src="img/grocery_list_4.webp" style="width:25%; vertical-align: middle;">
-  <span style="font-size: 2rem; vertical-align: middle;">➔</span>
-  <img src="img/grocery_list_5.webp" style="width:25%; vertical-align: middle;">
+  <img src="img/grocery_list_21.webp" style="width:25%; vertical-align: middle;">
 </div>
