@@ -17,6 +17,8 @@ It helps users organize their cooking ideas, track ingredients and preparation s
   - [Ingredients](recipe_ingredients.md)
   - [Instructions](recipe_instructions.md)
 - [Manage Recipe](recipe_manage.md)
+  - [Edit Topics](topics_edit.md)
+  - [Edit Recipe](recipe_edit.md)
   - [Share Recipe](recipe_share.md)
 - [Delete Recipe](recipe_delete.md)
   
