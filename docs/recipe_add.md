@@ -36,7 +36,6 @@ Each instruction step includes:
 The order of steps defines the recipe flow.  
 
 Instruction steps are added one by one, but you can change their order using drag and drop.
-
 To reorder steps:
 1. Tap and hold the arrow button until you feel a vibration.
 2. Drag the step to the desired position, aligning the arrow buttons.
