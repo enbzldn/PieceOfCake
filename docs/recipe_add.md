@@ -24,6 +24,8 @@ Each ingredient includes:
 - **Quantity**: A numeric value (e.g., "0.5", "100").
 - **Unit**: Optional unit of measurement (e.g., "g", "cup", "tbsp").
 
+Ingredients are added one by one, but after saving the recipe, they will be sorted in alphabetical order.
+
 ## Instructions
 
 Each instruction step includes:
