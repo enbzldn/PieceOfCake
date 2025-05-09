@@ -26,6 +26,9 @@ Each ingredient includes:
 
 Ingredients are added one by one, but after saving the recipe, they will be sorted in alphabetical order.
 
+If you want to set a different sorting order, add numbers to the ingredient names.  
+Ingredients with numbers will be sorted according to the numbering, while ingredients without numbers will appear at the end of the list.
+
 ## Instructions
 
 Each instruction step includes:
