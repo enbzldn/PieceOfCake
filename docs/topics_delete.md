@@ -5,6 +5,9 @@
 3. Tap **Delete**.
 4. Confirm the deletion by tapping **Delete** again.
 
+Deleting a topic will not remove the recipes linked to it.
+Recipes will still be available on the Recipes page or the Search page.
+
 <div style="display: flex; gap: 16px; align-items: center;">
   <img src="img/topics.webp" style="width:25%; vertical-align: middle;">
   <span style="font-size: 2rem; vertical-align: middle;">➔</span>
