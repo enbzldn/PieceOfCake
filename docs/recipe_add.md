@@ -33,4 +33,11 @@ Each instruction step includes:
 - **Description**: A more detailed explanation of what to do.
 - **Photo (optional)**: You can attach a photo to any step to visualize the process.
 
-The order of steps defines the recipe flow.
+The order of steps defines the recipe flow.  
+
+Instruction steps are added one by one, but you can change their order using drag and drop.
+
+To reorder steps:
+1. Tap and hold the arrow button until you feel a vibration.
+2. Drag the step to the desired position, aligning the arrow buttons.
+3. Release to confirm the new position.
