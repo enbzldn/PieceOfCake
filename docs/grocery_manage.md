@@ -14,7 +14,7 @@ You can then delete the grocery or move it back by unchecking the checkbox.
   <img src="img/grocery_list_2.webp" style="width:25%; vertical-align: middle;">
 </div>
 
-### Edit a Grocery
+## Edit a Grocery
 
 1. Open **Grocery List** page.
 2. Select the grocery you want to edit and swipe right to left.
@@ -28,7 +28,7 @@ You can then delete the grocery or move it back by unchecking the checkbox.
   <img src="img/grocery_list_5.webp" style="width:25%; vertical-align: middle;">
 </div>
 
-### Delete a Grocery
+## Delete a Grocery
    
 1. Open **Grocery List** page.
 2. Select the grocery you want to delete and swipe right to left.
