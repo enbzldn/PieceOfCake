@@ -3,7 +3,7 @@
 1. Open **Topics** page.
 2. Find the topic you want to delete and swipe right to left.
 3. Tap **Delete**.
-4. Confirm the deletion by tapping **Delete** again.
+4. Confirm the deletion by tapping **Delete** again, otherwise tap **Cancel**.
 
 Deleting a topic will not remove the recipes linked to it.  
 Recipes will still be available on the **Recipes** page or the **Search** page.
