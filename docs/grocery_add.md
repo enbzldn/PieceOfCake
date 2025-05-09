@@ -2,7 +2,7 @@
 
 There are two ways to create a Grocery List:  
 
-### Add items on the **Grocery List** page  
+### 1. Add items on the **Grocery List** page  
   - Open the **Grocery List** page
   - Tap the **Add Grocery** button
   - Enter the Grocery name and tap **OK**
@@ -13,7 +13,7 @@ There are two ways to create a Grocery List:
   <img src="img/grocery_list_3.webp" style="width:25%; vertical-align: middle;">
 </div>
   
-### Add items from the recipe ingredients page
+### 2. Add items from the recipe ingredients page
   - Go to the **Recipe** page
   - Open **Ingredients** and scroll down
   - Tap the **Add Grocery** button
