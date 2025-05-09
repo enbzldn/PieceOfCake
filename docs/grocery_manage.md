@@ -1,6 +1,8 @@
 
 # Manage Groceries
 
+Items in the **Grocery List** can be marked as **Completed**.
+
 1. Open **Grocery List** page.
 2. Set the checkbox to mark the grocery as **Completed**.
 3. Selected grocery item will be moved to the **Completed** list.
