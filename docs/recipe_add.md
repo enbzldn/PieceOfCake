@@ -19,5 +19,8 @@ Any changes you make will be saved automatically.
 
 Each ingredient includes:
 - **Title**: Name of the ingredient (e.g., "Flour").
-- **Quantity**: A numeric value (e.g., "2").
+- **Quantity**: A numeric value (e.g., "0.5", "100").
 - **Unit**: Optional unit of measurement (e.g., "g", "cup", "tbsp").
+
+## Instructions
+
