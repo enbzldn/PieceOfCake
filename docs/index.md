@@ -9,7 +9,7 @@
   
 ### Recipes
 - [Create Recipe](recipe_add.md)
-  - [Ingredients](recipe_ingredients.md)
+  - [Ingredients](recipe_add.md#Ingredients)
   - [Instructions](recipe_instructions.md)
 - [Manage Recipe](recipe_manage.md)
   - [Edit Topics](topics_edit.md)
