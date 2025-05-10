@@ -1,7 +1,7 @@
 # Create a Topic
 
-Topics are categories that help organize recipes  
-by common themes, such as **Breakfast**, **Desserts**, or **Quick Recipes**.  
+Topics are categories that help organize recipes by common themes, 
+such as **Breakfast**, **Desserts**, or **Quick Recipes**.  
 They make it easier to find recipes by grouping them based on key characteristics, flavors, or types of dishes.  
 
 To create a Topic:
