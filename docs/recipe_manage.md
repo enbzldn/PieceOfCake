@@ -39,7 +39,7 @@ You can mark completed instruction steps and used ingredients while cooking.
   <img src="img/gif/ingredients.gif" style="width:25%; max-width:200px; height:auto;">
   <span style="font-size: 2rem; vertical-align: middle;">➔</span>
   <img src="img/gif/instructions.gif" style="width:25%; max-width:200px; height:auto;">
-</div>
+</div> 
 
 ## Delete Recipe
 
