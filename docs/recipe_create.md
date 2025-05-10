@@ -15,7 +15,7 @@ Optionally add a photo of the finished dish by tapping the **Camera** button
 <div style="display: flex; gap: 16px; align-items: center;">
   <img src="img/main_screen.webp" style="width:25%;">
   <span style="font-size: 2rem; align-self: center;">➔</span>
-  <img src="img/recipe_edit.webp" style="width:25%;">
+  <img src="img/recipe_editor.webp" style="width:25%;">
 </div>
 
 ## Ingredients
