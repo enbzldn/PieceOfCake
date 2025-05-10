@@ -27,23 +27,23 @@ Each ingredient includes:
 
 Ingredients are added one by one, but after saving the recipe, they will be sorted in alphabetical order.
 
-If you want to set a different sorting order, add numbers to the ingredient names.  
-Ingredients with numbers will be sorted according to the numbering, while ingredients without numbers will appear at the end of the list.
-
-Ingredients can be grouped by recipe components. To do this, write the group name before the ingredient name  
-in the following format: "group name: ingredient name". The group name should be placed before each ingredient that belongs to the same group.
-
 <div style="display: flex; gap: 16px; align-items: center;">
   <img src="img/recipe_ingredients_1.webp" style="width:25%;">
   <span style="font-size: 2rem; align-self: center;">➔</span>
   <img src="img/recipe_ingredients_11.webp" style="width:25%;">
 </div>
 
+If you want to set a different sorting order, add numbers to the ingredient names.  
+Ingredients with numbers will be sorted according to the numbering, while ingredients without numbers will appear at the end of the list.
+
 <div style="display: flex; gap: 16px; align-items: center;">
   <img src="img/recipe_ingredients_2.webp" style="width:25%;">
   <span style="font-size: 2rem; align-self: center;">➔</span>
   <img src="img/recipe_ingredients_21.webp" style="width:25%;">
 </div>
+
+Ingredients can be grouped by recipe components. To do this, write the group name before the ingredient name  
+in the following format: "group name: ingredient name". The group name should be placed before each ingredient that belongs to the same group.
 
 <div style="display: flex; gap: 16px; align-items: center;">
   <img src="img/recipe_ingredients_3.webp" style="width:25%;">
