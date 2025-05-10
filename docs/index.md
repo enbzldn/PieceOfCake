@@ -18,5 +18,5 @@
 - [Delete Recipe](recipe_delete.md)
   
 ### Grocery List
-- [Create Grocery List](grocery_add.md)
+- [Create Grocery List](grocery_create.md)
 - [Manage Grocery List](grocery_manage.md)
