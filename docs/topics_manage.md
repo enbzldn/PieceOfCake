@@ -12,7 +12,7 @@
   <span style="font-size: 2rem; vertical-align: middle;">➔</span>
   <img src="img/topics_4.webp" style="width:25%; vertical-align: middle;">
   <span style="font-size: 2rem; vertical-align: middle;">➔</span>
-  <img src="img/topics_5.webp" style="width:25%; vertical-align: middle;">
+  <img src="img/topics_511.webp" style="width:25%; vertical-align: middle;">
 </div>
 
 ## Delete a Topic
