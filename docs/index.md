@@ -10,7 +10,7 @@
 - [Create Recipe](recipe_create.md)
   - [Ingredients](recipe_create.md#ingredients)
   - [Instructions](recipe_create.md#instructions)
-- [Manage Recipe](recipe_manage.md)
+- [Manage Recipe](recipe_manage.md) 
   
 ### Grocery List
 - [Create Grocery List](grocery_create.md)
