@@ -1,6 +1,6 @@
 # Create a Recipe
 
-Open the app and tap the **Create recipe** button on the main screen.  
+Tap the **Create recipe** button on the main screen.  
 
 1. Enter a recipe name.  
 2. Add a list of ingredients.  
