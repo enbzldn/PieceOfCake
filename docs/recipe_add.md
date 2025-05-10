@@ -8,7 +8,7 @@ Tap the **Create recipe** button on the main screen.
 
 Optionally add a photo of the finished dish by tapping the **Camera** button
 
-<p style="background-color: #fef3c7; padding: 4px 8px; border-radius: 4px; display: inline-block;">
+<p style="background-color: #F8C6FF; padding: 4px 8px; border-radius: 4px; display: inline-block;">
   Any changes you make will be saved automatically.
 </p>
 
@@ -55,7 +55,7 @@ in the following format: "group name: ingredient name". The group name should be
 
 To delete an ingredient, swipe it from right to left.  
 Tap **Delete**.
-<p style="background-color: #fef3c7; padding: 4px 8px; border-radius: 4px; display: inline-block;">
+<p style="background-color: #F8C6FF; padding: 4px 8px; border-radius: 4px; display: inline-block;">
   The ingredient will be removed without confirmation.
 </p>
 
@@ -110,7 +110,7 @@ Tap **Delete photo**
 
 To delete an instruction step, swipe **Title** from right to left.  
 Tap **Delete**.
-<p style="background-color: #fef3c7; padding: 4px 8px; border-radius: 4px; display: inline-block;">
+<p style="background-color: #F8C6FF; padding: 4px 8px; border-radius: 4px; display: inline-block;">
   The instruction step will be removed without confirmation.
 </p>
 
