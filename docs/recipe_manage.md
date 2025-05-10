@@ -18,6 +18,11 @@ On the **Recipe** page, you can:
 - Go to the recipe **Editing** page
 - Send the recipe using the **Share** feature
 
+<div style="display: flex; gap: 16px; align-items: center;">
+  <img src="img/recipe_ingredients_12.webp" style="width:25%;">
+  <img src="img/topics_2.webp" style="width:25%;">
+</div>
+
 ## Delete Recipe
 
 1. Open **Recipes** page by tapping **Go to recipes**.
