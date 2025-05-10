@@ -72,7 +72,7 @@ Tap "Add Photo."
 ### Delete Photo
 
 To delete a photo, swipe it from right to left.  
-Tap **Delete Photo**
+Tap **Delete photo**
 
 <div style="display: flex; gap: 16px; align-items: center;">
   <img src="img/recipe_instruction_31.webp" style="width:25%;">
