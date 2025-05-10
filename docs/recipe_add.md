@@ -78,6 +78,12 @@ To reorder steps:
 2. Drag the step to the desired position, aligning the arrow buttons.
 3. Release to confirm the new position.
 
+<div style="display: flex; gap: 16px; align-items: center;">
+  <img src="img/recipe_instruction_1.webp" style="width:25%;">
+  <span style="font-size: 2rem; align-self: center;">➔</span>
+  <img src="img/recipe_instruction_11.webp" style="width:25%;">
+</div>  
+
 ### Add Photo
 
 To add a photo to an instruction step, swipe step **Description** from left to right.  
