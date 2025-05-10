@@ -62,7 +62,7 @@ To reorder steps:
 ### Add Photo
 
 To add a photo to an instruction step, swipe **step description** from left to right.  
-Tap "Add Photo."
+Tap **Add Photo**
 
 <div style="display: flex; gap: 16px; align-items: center;">
   <img src="img/recipe_instruction_20.webp" style="width:25%;">
