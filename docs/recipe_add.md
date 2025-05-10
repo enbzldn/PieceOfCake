@@ -51,12 +51,6 @@ in the following format: "group name: ingredient name". The group name should be
   <img src="img/recipe_ingredients_31.webp" style="width:25%;">
 </div>
 
-<div style="display: flex; gap: 16px; align-items: center;">
-
-  <img src="img/recipe_ingredients_21.webp" style="width:25%;">
-  <img src="img/recipe_ingredients_31.webp" style="width:25%;">
-</div>
-
 ### Delete Ingredient
 
 To delete an ingredient, swipe it from right to left.  
