@@ -10,7 +10,13 @@ You can access the **Recipe** page in several ways:
   <img src="img/recipe_ingredients_11.webp" style="width:25%;">
   <img src="img/recipe_instruction_12.webp" style="width:25%;">
 </div>
+<br>
 
+On the Recipe page, you can:
+
+- Add the **Recipe** to a **Topic**
+- Go to the recipe **Editing** page
+- Send the recipe using the **Share** feature
 
 ## Delete Recipe
 
