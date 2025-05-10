@@ -5,6 +5,7 @@ Open the app and tap the **Create recipe** button on the main screen.
 1. Enter a recipe name.  
 2. Add a list of ingredients.  
 3. Add preparation steps with optional photos for each.  
+
 Optionally add a photo of the finished dish by tapping the **Camera button**
 
 <p style="background-color: #fef3c7; padding: 4px 8px; border-radius: 4px; display: inline-block;">
