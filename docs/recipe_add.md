@@ -64,5 +64,5 @@ To delete an instruction step:
 <div style="display: flex; gap: 16px; align-items: center;">
   <img src="img/recipe_instruction_21.webp" style="width:25%;">
   <span style="font-size: 2rem; align-self: center;">➔</span>
-  <img src="img/recipe_instruction_22" style="width:25%;">
+  <img src="img/recipe_instruction_22.webp" style="width:25%;">
 </div>
