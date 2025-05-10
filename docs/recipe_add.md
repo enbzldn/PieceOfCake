@@ -71,7 +71,8 @@ Tap "Add Photo."
 
 ### Delete Photo
 
-To delete a photo, swipe it from right to left.
+To delete a photo, swipe it from right to left.  
+Tap **Delete Photo**
 
 <div style="display: flex; gap: 16px; align-items: center;">
   <img src="img/recipe_instruction_31.webp" style="width:25%;">
@@ -81,7 +82,7 @@ To delete a photo, swipe it from right to left.
 
 To delete an instruction step:
 1. Swipe from right to left on the instruction title.
-2. Tap "Delete".
+2. Tap **Delete**.
 <p style="background-color: #fef3c7; padding: 4px 8px; border-radius: 4px; display: inline-block;">
   The instruction step will be removed without confirmation.
 </p>
