@@ -33,7 +33,9 @@ On the **Recipe** page, you can:
 </div>
 <br>
 
-3. Share the recipe using phone services (email, messengers, and other apps).
+3. Share the recipe using phone services (email, messengers, and other apps).  
+
+You can mark completed instruction steps and used ingredients while cooking.  
 
 ## Delete Recipe
 
