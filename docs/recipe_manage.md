@@ -12,7 +12,7 @@ You can access the **Recipe** page in several ways:
 </div>
 <br>
 
-On the Recipe page, you can:
+On the **Recipe** page, you can:
 
 - Add the **Recipe** to a **Topic**
 - Go to the recipe **Editing** page
