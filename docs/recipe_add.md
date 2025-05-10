@@ -56,7 +56,7 @@ To reorder steps:
 2. Drag the step to the desired position, aligning the arrow buttons.
 3. Release to confirm the new position.
 
-### Adding a Photo
+### Add Photo
 
 To add a photo to an instruction step, swipe from left to right on the step description.  
 Tap "Add Photo."
@@ -69,6 +69,14 @@ Tap "Add Photo."
   <img src="img/recipe_instruction_22.webp" style="width:25%;">
 </div>
 
+### Delete Photo
+
+To delete a photo, swipe it from right to left.
+
+<div style="display: flex; gap: 16px; align-items: center;">
+  <img src="img/recipe_instruction_30.webp" style="width:25%;">
+</div>
+
 ### Delete Instruction step
 
 To delete an instruction step:
@@ -77,3 +85,7 @@ To delete an instruction step:
 <p style="background-color: #fef3c7; padding: 4px 8px; border-radius: 4px; display: inline-block;">
   The instruction step will be removed without confirmation.
 </p>
+
+<div style="display: flex; gap: 16px; align-items: center;">
+  <img src="img/recipe_instruction_31.webp" style="width:25%;">
+</div>
