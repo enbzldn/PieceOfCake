@@ -60,3 +60,9 @@ To delete an instruction step:
 <p style="background-color: #fef3c7; padding: 4px 8px; border-radius: 4px; display: inline-block;">
   The instruction step will be removed without confirmation.
 </p>
+
+<div style="display: flex; gap: 16px; align-items: center;">
+  <img src="img/recipe_instruction_21.webp" style="width:25%;">
+  <span style="font-size: 2rem; align-self: center;">➔</span>
+  <img src="img/recipe_instruction_22" style="width:25%;">
+</div>
