@@ -7,13 +7,13 @@
 - [Manage Topic](topics_manage.md)
   
 ### Recipes
-- [Create Recipe](recipe_add.md)
-  - [Ingredients](recipe_add.md#Ingredients)
-  - [Instructions](recipe_add.md#Instructions)
+- [Create Recipe](recipe_create.md)
+  - [Ingredients](recipe_create.md#Ingredients)
+  - [Instructions](recipe_create.md#Instructions)
 - [Manage Recipe](recipe_manage.md)
-  - [Edit Topics](topics_edit.md)
-  - [Edit Recipe](recipe_edit.md)
-  - [Share Recipe](recipe_share.md)
+  - [Edit Topics](recipe_manage.md#topics)
+  - [Edit Recipe](recipe_manage.md#edit)
+  - [Share Recipe](recipe_manage.md#share)
 - [Delete Recipe](recipe_delete.md)
   
 ### Grocery List
