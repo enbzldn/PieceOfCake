@@ -3,9 +3,8 @@
 - [Introduction](intro.md)  
 
 ### Topics
-- [Create Topic](topics_add.md)
+- [Create Topic](topics_create.md)
 - [Manage Topic](topics_manage.md)
-- [Delete Topic](topics_delete.md)
   
 ### Recipes
 - [Create Recipe](recipe_add.md)
