@@ -11,6 +11,3 @@ You can access the **Recipe** page in several ways:
   <img src="img/recipe_instruction_12.webp" style="width:25%;">
 </div>
 
-<div style="display: flex; gap: 16px; align-items: center;">
-  <img src="img/recipe_manage.webp" style="width:25%;">
-</div>
