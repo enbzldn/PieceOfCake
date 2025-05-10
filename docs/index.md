@@ -8,8 +8,8 @@
   
 ### Recipes
 - [Create Recipe](recipe_create.md)
-  - [Ingredients](recipe_create.md#Ingredients)
-  - [Instructions](recipe_create.md#Instructions)
+  - [Ingredients](recipe_create.md#ingredients)
+  - [Instructions](recipe_create.md#instructions)
 - [Manage Recipe](recipe_manage.md)
   - [Edit Topics](recipe_manage.md#topics)
   - [Edit Recipe](recipe_manage.md#edit)
