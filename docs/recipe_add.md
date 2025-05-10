@@ -53,3 +53,10 @@ To reorder steps:
 1. Tap and hold the **arrow button** until you feel a vibration.
 2. Drag the step to the desired position, aligning the arrow buttons.
 3. Release to confirm the new position.
+
+To delete an instruction step:
+1. Swipe from right to left on the instruction title.
+2. Tap "Delete".
+<p style="background-color: #fef3c7; padding: 4px 8px; border-radius: 4px; display: inline-block;">
+  The instruction step will be removed without confirmation.
+</p>
