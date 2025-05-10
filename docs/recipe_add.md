@@ -35,12 +35,24 @@ in the following format: "group name: ingredient name". The group name should be
 
 <div style="display: flex; gap: 16px; align-items: center;">
   <img src="img/recipe_ingredients_1.webp" style="width:25%;">
-  <img src="img/recipe_ingredients_2.webp" style="width:25%;">
-  <img src="img/recipe_ingredients_3.webp" style="width:25%;">
+  <span style="font-size: 2rem; align-self: center;">➔</span>
+  <img src="img/recipe_ingredients_11.webp" style="width:25%;">
 </div>
 
 <div style="display: flex; gap: 16px; align-items: center;">
-  <img src="img/recipe_ingredients_11.webp" style="width:25%;">
+  <img src="img/recipe_ingredients_2.webp" style="width:25%;">
+  <span style="font-size: 2rem; align-self: center;">➔</span>
+  <img src="img/recipe_ingredients_21.webp" style="width:25%;">
+</div>
+
+<div style="display: flex; gap: 16px; align-items: center;">
+  <img src="img/recipe_ingredients_3.webp" style="width:25%;">
+  <span style="font-size: 2rem; align-self: center;">➔</span>
+  <img src="img/recipe_ingredients_31.webp" style="width:25%;">
+</div>
+
+<div style="display: flex; gap: 16px; align-items: center;">
+
   <img src="img/recipe_ingredients_21.webp" style="width:25%;">
   <img src="img/recipe_ingredients_31.webp" style="width:25%;">
 </div>
