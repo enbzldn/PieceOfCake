@@ -33,7 +33,7 @@ On the **Recipe** page, you can:
 </div>
 <br>
 
-4. Send the recipe using the **Share** feature
+3. Share the recipe using phone services (email, messengers, and other apps).
 
 ## Delete Recipe
 
