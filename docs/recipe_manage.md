@@ -36,9 +36,9 @@ On the **Recipe** page, you can:
 You can mark completed instruction steps and used ingredients while cooking.
 
 <div style="display: flex; gap: 16px; align-items: center;">
-  <img src="img/gif/ingredients.gif" style="width:25%;">
+  <img src="img/gif/ingredients.gif" style="width:25%; max-width:200px; height:auto;">
   <span style="font-size: 2rem; vertical-align: middle;">➔</span>
-  <img src="img/gif/instruction.gif" style="width:25%;">
+  <img src="img/gif/instruction.gif" style="width:25%; max-width:200px; height:auto;">
 </div>
 
 ## Delete Recipe
