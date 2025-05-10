@@ -46,7 +46,7 @@ Ingredients with numbers will be sorted according to the numbering, while ingred
 
 Ingredients can be grouped by recipe components.  
 To do this, write the group name before the ingredient name in the following format:  
-"group name: ingredient name". 
+"group name: ingredient name".  
 The group name should be placed before each ingredient that belongs to the same group.
 
 <div style="display: flex; gap: 16px; align-items: center;">
