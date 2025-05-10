@@ -80,7 +80,7 @@ Tap **Delete photo**
 
 ### Delete Instruction step
 
-To delete an instruction step, swipe it from right to left.  
+To delete an instruction step, swipe **Title** from right to left.  
 Tap **Delete**.
 <p style="background-color: #fef3c7; padding: 4px 8px; border-radius: 4px; display: inline-block;">
   The instruction step will be removed without confirmation.
