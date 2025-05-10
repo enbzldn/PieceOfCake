@@ -23,8 +23,8 @@
 4. Confirm the deletion by tapping **Delete** again, otherwise tap **Cancel**.
 
 <p style="background-color: #fef3c7; padding: 4px 8px; border-radius: 4px; display: inline-block;">
-  Deleting a topic will not remove the recipes linked to it.  
-  Recipes will still be available on the **Recipes** page or the **Search** page.
+  Deleting a topic will not remove the recipes linked to it.<br> 
+  Recipes will still be available on the Recipes page or the Search page.
 </p>
 
 <div style="display: flex; gap: 16px; align-items: center;">
