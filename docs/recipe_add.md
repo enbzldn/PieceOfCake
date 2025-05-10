@@ -34,9 +34,15 @@ Ingredients can be grouped by recipe components. To do this, write the group nam
 in the following format: "group name: ingredient name". The group name should be placed before each ingredient that belongs to the same group.
 
 <div style="display: flex; gap: 16px; align-items: center;">
-  <img src="img/recipe_ingredients.webp" style="width:25%;">
   <img src="img/recipe_ingredients_1.webp" style="width:25%;">
   <img src="img/recipe_ingredients_2.webp" style="width:25%;">
+  <img src="img/recipe_ingredients_3.webp" style="width:25%;">
+</div>
+
+<div style="display: flex; gap: 16px; align-items: center;">
+  <img src="img/recipe_ingredients_11.webp" style="width:25%;">
+  <img src="img/recipe_ingredients_21.webp" style="width:25%;">
+  <img src="img/recipe_ingredients_31.webp" style="width:25%;">
 </div>
 
 ### Delete Ingredient
