@@ -11,10 +11,6 @@
   - [Ingredients](recipe_create.md#ingredients)
   - [Instructions](recipe_create.md#instructions)
 - [Manage Recipe](recipe_manage.md)
-  - [Edit Topics](recipe_manage.md#topics)
-  - [Edit Recipe](recipe_manage.md#edit)
-  - [Share Recipe](recipe_manage.md#share)
-- [Delete Recipe](recipe_delete.md)
   
 ### Grocery List
 - [Create Grocery List](grocery_create.md)
