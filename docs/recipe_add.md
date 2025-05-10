@@ -62,7 +62,7 @@ To reorder steps:
 
 ### Add Photo
 
-To add a photo to an instruction step, swipe **step description** from left to right.  
+To add a photo to an instruction step, swipe step **Description** from left to right.  
 Tap **Add Photo**
 
 <div style="display: flex; gap: 16px; align-items: center;">
