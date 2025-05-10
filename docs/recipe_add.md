@@ -8,7 +8,7 @@ Tap the **Create recipe** button on the main screen.
 
 Optionally add a photo of the finished dish by tapping the **Camera** button
 
-<p style="background-color: #F8C6FF; padding: 4px 8px; border-radius: 4px; display: inline-block;">
+<p style="background-color: #F8C6FF; padding: 4px 8px; border-radius: 16px; display: inline-block;">
   Any changes you make will be saved automatically.
 </p>
 
