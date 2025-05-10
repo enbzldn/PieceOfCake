@@ -15,15 +15,17 @@ You can access the **Recipe** page in several ways:
 
 On the **Recipe** page, you can:
 
-- Add the **Recipe** to a **Topic**
-- Go to the recipe **Editing** page
-- Send the recipe using the **Share** feature
+1. Add the **Recipe** to a **Topic**
 
 <div style="display: flex; gap: 16px; align-items: center;">
   <img src="img/recipe_instruction_12.webp" style="width:25%;">
   <span style="font-size: 2rem; vertical-align: middle;">➔</span>
   <img src="img/topics_2.webp" style="width:25%;">
 </div>
+<br>
+
+2. Go to the recipe **Editing** page
+3. Send the recipe using the **Share** feature
 
 ## Delete Recipe
 
