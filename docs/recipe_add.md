@@ -97,7 +97,7 @@ To delete a photo, swipe it from right to left.
 Tap **Delete photo**
 
 <div style="display: flex; gap: 16px; align-items: center;">
-  <img src="img/recipe_instruction_31.webp" style="width:25%;">
+  <img src="img/recipe_instruction_30.webp" style="width:25%;">
 </div>
 
 ### Delete Instruction step
@@ -109,5 +109,5 @@ Tap **Delete**.
 </p>
 
 <div style="display: flex; gap: 16px; align-items: center;">
-  <img src="img/recipe_instruction_30.webp" style="width:25%;">
+  <img src="img/recipe_instruction_31.webp" style="width:25%;">
 </div>
