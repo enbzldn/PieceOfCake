@@ -25,6 +25,7 @@ Each ingredient includes:
 - **Quantity**: A numeric value (e.g., "0.5", "100").
 - **Unit**: Optional unit of measurement (e.g., "g", "cup", "tbsp").
 
+### Sorting ingredients
 Ingredients are added one by one, but after saving the recipe, they will be sorted in alphabetical order.
 
 <div style="display: flex; gap: 16px; align-items: center;">
@@ -44,6 +45,7 @@ Ingredients with numbers will be sorted according to the numbering, while ingred
 </div>
 <br>
 
+### Grouping ingredients
 Ingredients can be grouped by recipe components.  
 To do this, write the group name before the ingredient name in the following format:  
 *group name: ingredient name*  
