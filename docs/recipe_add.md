@@ -62,9 +62,9 @@ To add a photo to an instruction step, swipe from left to right on the step desc
 Tap "Add Photo."
 
 <div style="display: flex; gap: 16px; align-items: center;">
-  <img src="img/recipe_instruction_21.webp" style="width:25%;">
-  <span style="font-size: 2rem; align-self: center;">➔</span>
   <img src="img/recipe_instruction_20.webp" style="width:25%;">
+  <span style="font-size: 2rem; align-self: center;">➔</span>
+  <img src="img/recipe_instruction_21.webp" style="width:25%;">
   <span style="font-size: 2rem; align-self: center;">➔</span>
   <img src="img/recipe_instruction_22.webp" style="width:25%;">
 </div>
