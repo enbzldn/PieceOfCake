@@ -43,7 +43,6 @@ Ingredients with numbers will be sorted according to the numbering, while ingred
   <span style="font-size: 2rem; align-self: center;">➔</span>
   <img src="img/recipe_ingredients_21.webp" style="width:25%;">
 </div>
-<br>
 
 ### Grouping ingredients
 Ingredients can be grouped by recipe components.  
