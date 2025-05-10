@@ -15,7 +15,7 @@
   <img src="img/topics_4_1.webp" style="width:25%; vertical-align: middle;">
 </div>
 
-# Delete a Topic
+## Delete a Topic
 
 1. Open **Topics** page.
 2. Select the topic you want to delete and swipe right to left.
