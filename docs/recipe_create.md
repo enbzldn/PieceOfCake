@@ -77,18 +77,6 @@ Each instruction step includes:
 
 The order of steps defines the recipe flow.  
 
-Instruction steps are added one by one, but you can change their order using drag and drop.  
-To reorder steps:
-1. Tap and hold the **arrow button** until you feel a vibration.
-2. Drag the step to the desired position, aligning the arrow buttons.
-3. Release to confirm the new position.
-
-<div style="display: flex; gap: 16px; align-items: center;">
-  <img src="img/recipe_instruction_1.webp" style="width:25%;">
-  <span style="font-size: 2rem; align-self: center;">➔</span>
-  <img src="img/recipe_instruction_11.webp" style="width:25%;">
-</div>  
-
 ### Add Photo
 
 To add a photo to an instruction step, swipe step **Description** from left to right.  
@@ -110,6 +98,20 @@ Tap **Delete photo**
 <div style="display: flex; gap: 16px; align-items: center;">
   <img src="img/recipe_instruction_30.webp" style="width:25%;">
 </div>
+
+### Moving Instruction step
+
+Instruction steps are added one by one, but you can change their order using drag and drop.  
+To reorder steps:
+1. Tap and hold the **arrow button** until you feel a vibration.
+2. Drag the step to the desired position, aligning the arrow buttons.
+3. Release to confirm the new position.
+
+<div style="display: flex; gap: 16px; align-items: center;">
+  <img src="img/recipe_instruction_1.webp" style="width:25%;">
+  <span style="font-size: 2rem; align-self: center;">➔</span>
+  <img src="img/recipe_instruction_11.webp" style="width:25%;">
+</div>  
 
 ### Delete Instruction step
 
