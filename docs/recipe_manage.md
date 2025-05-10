@@ -15,8 +15,10 @@ You can access the **Recipe** page in several ways:
 
 On the **Recipe** page, you can:
 
-#### 1. Add the **Recipe** to a **Topic**
-
+1. Add the **Recipe** to a **Topic**
+2. Go to the recipe **Editing** page
+3. Share the recipe using phone services (email, messengers, and other apps).
+   
 <div style="display: flex; gap: 16px; align-items: center;">
   <img src="img/recipe_instruction_12.webp" style="width:25%;">
   <span style="font-size: 2rem; vertical-align: middle;">➔</span>
@@ -24,18 +26,16 @@ On the **Recipe** page, you can:
 </div>
 <br>
 
-#### 2. Go to the recipe **Editing** page
-
 <div style="display: flex; gap: 16px; align-items: center;">
   <img src="img/recipe_instruction_12.webp" style="width:25%;">
   <span style="font-size: 2rem; vertical-align: middle;">➔</span>
   <img src="img/recipe_ingredients_1.webp" style="width:25%;">
 </div>
-<br>
+<br> 
 
-#### 3. Share the recipe using phone services (email, messengers, and other apps).  
+You can mark completed instruction steps and used ingredients while cooking.
 
-You can mark completed instruction steps and used ingredients while cooking.  
+
 
 ## Delete Recipe
 
