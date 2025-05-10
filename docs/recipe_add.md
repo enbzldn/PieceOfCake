@@ -34,12 +34,15 @@ in the following format: "group name: ingredient name". The group name should be
 
 ### Delete Ingredient
 
-To delete an ingredient:
-1. Swipe the ingredient from right to left.
-2. Tap **Delete**.
+To delete an ingredient, swipe it from right to left.
+Tap **Delete**.
 <p style="background-color: #fef3c7; padding: 4px 8px; border-radius: 4px; display: inline-block;">
   The ingredient will be removed without confirmation.
 </p>
+
+<div style="display: flex; gap: 16px; align-items: center;">
+  <img src="img/recipe_ingredient_30.webp" style="width:25%;">
+</div>
 
 ## Instructions
 
