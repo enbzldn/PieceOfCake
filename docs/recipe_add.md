@@ -55,7 +55,7 @@ in the following format: "group name: ingredient name". The group name should be
 
 To delete an ingredient, swipe it from right to left.  
 Tap **Delete**.
-<p style="background-color: #F8C6FF; padding: 4px 8px; border-radius: 4px; display: inline-block;">
+<p style="background-color: #F8C6FF; padding: 4px 8px; border-radius: 8px; display: inline-block;">
   The ingredient will be removed without confirmation.
 </p>
 
@@ -110,7 +110,7 @@ Tap **Delete photo**
 
 To delete an instruction step, swipe **Title** from right to left.  
 Tap **Delete**.
-<p style="background-color: #F8C6FF; padding: 4px 8px; border-radius: 4px; display: inline-block;">
+<p style="background-color: #F8C6FF; padding: 4px 8px; border-radius: 8px; display: inline-block;">
   The instruction step will be removed without confirmation.
 </p>
 
