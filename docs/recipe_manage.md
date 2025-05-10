@@ -19,7 +19,7 @@ On the **Recipe** page, you can:
 - Send the recipe using the **Share** feature
 
 <div style="display: flex; gap: 16px; align-items: center;">
-  <img src="img/recipe_ingredients_12.webp" style="width:25%;">
+  <img src="img/recipe_instruction_12.webp" style="width:25%;">
   <img src="img/topics_2.webp" style="width:25%;">
 </div>
 
