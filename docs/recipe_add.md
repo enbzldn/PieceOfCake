@@ -36,6 +36,7 @@ in the following format: "group name: ingredient name". The group name should be
 <div style="display: flex; gap: 16px; align-items: center;">
   <img src="img/recipe_ingredients.webp" style="width:25%;">
   <img src="img/recipe_ingredients_1.webp" style="width:25%;">
+  <img src="img/recipe_ingredients_2.webp" style="width:25%;">
 </div>
 
 ### Delete Ingredient
