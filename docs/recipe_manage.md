@@ -25,7 +25,15 @@ On the **Recipe** page, you can:
 <br>
 
 2. Go to the recipe **Editing** page
-3. Send the recipe using the **Share** feature
+
+<div style="display: flex; gap: 16px; align-items: center;">
+  <img src="img/recipe_instruction_12.webp" style="width:25%;">
+  <span style="font-size: 2rem; vertical-align: middle;">➔</span>
+  <img src="img/recipe_ingredients_1.webp" style="width:25%;">
+</div>
+<br>
+
+4. Send the recipe using the **Share** feature
 
 ## Delete Recipe
 
