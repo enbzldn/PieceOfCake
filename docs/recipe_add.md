@@ -32,6 +32,11 @@ Ingredients with numbers will be sorted according to the numbering, while ingred
 Ingredients can be grouped by recipe components. To do this, write the group name before the ingredient name  
 in the following format: "group name: ingredient name". The group name should be placed before each ingredient that belongs to the same group.
 
+To delete an ingredient:
+1. Swipe the ingredient from right to left.
+2. Tap **Delete**.
+The ingredient will be removed without confirmation.
+
 ## Instructions
 
 Each instruction step includes:
