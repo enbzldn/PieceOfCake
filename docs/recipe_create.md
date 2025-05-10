@@ -65,7 +65,7 @@ Tap **Delete**.
 </p>
 
 <div style="display: flex; gap: 16px; align-items: center;">
-  <img src="img/recipe_ingredient_30.webp" style="width:25%;">
+  <img src="img/recipe_ingredients_33.webp" style="width:25%;">
 </div>
 
 ## Instructions
