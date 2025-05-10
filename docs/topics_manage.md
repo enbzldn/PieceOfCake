@@ -1,4 +1,6 @@
-# Edit a Topic
+# Manage a Topic
+
+## Edit a Topic
 
 1. Open **Topics** page.
 2. Select the topic you want to edit and swipe right to left.
