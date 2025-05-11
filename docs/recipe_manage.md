@@ -1,4 +1,4 @@
-# Manage Recipes
+# Manage Recipe
 
 You can access the **Recipe** page in several ways:
 - Open the **Topic** that contains the recipe.
