@@ -15,7 +15,7 @@
   <img src="img/topics_5.webp" style="width:25%; vertical-align: middle;">
 </div>
 
-## Delete a Topicsss
+## Delete a Topic
 
 1. Open **Topics** page.
 2. Select the topic you want to delete and swipe right to left.
@@ -32,5 +32,5 @@
   <span style="font-size: 2rem; vertical-align: middle;">➔</span>
   <img src="img/topics_4.webp" style="width:25%; vertical-align: middle;">
   <span style="font-size: 2rem; vertical-align: middle;">➔</span>
-  <img src="img/topics_611.webp" style="width:25%; vertical-align: middle;">
+  <img src="img/topics_6.webp" style="width:25%; vertical-align: middle;">
 </div>
