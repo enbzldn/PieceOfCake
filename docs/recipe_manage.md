@@ -17,7 +17,7 @@ On the **Recipe** page, you can:
 
 1. Add the **Recipe** to a **Topic**
 2. Go to the recipe **Editing** page
-3. Share the recipe using phone services (email, messengers, and other apps).
+3. Share the recipe using services (email, messengers, and other apps).
    
 <div style="display: flex; gap: 16px; align-items: center;">
   <img src="img/recipe_instruction_12.webp" style="width:25%;">
