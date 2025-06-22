@@ -1,4 +1,4 @@
-# PieceOfCake 🍰
+# PieceOfCake
 
 - [Introduction](intro.md)  
 
