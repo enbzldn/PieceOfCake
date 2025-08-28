@@ -1,5 +1,7 @@
 # Manage Recipe
 
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+
 You can access the **Recipe** page in several ways:
 - Open the **Topic** that contains the recipe.
 - Open the **Recipes** page and find the recipe you need.
