@@ -16,7 +16,7 @@ You can access the **Recipe** page in several ways:
 <br>
 
 On the **Recipe** page, you can:
-
+<li><a href="{{ site.baseurl }}/index.html"><i class='fa fa-home'></i> Home</a></li>
 1. Add the **Recipe** to a **Topic**
 2. Go to the recipe **Editing** page
 3. Share the recipe using services (email, messengers, and other apps).
